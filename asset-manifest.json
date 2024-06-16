@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/css/main.333301a0.css",
+    "main.js": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/js/main.595b048e.js",
+    "static/js/453.b2157c12.chunk.js": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/js/453.b2157c12.chunk.js",
+    "index.html": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/index.html",
+    "main.333301a0.css.map": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/css/main.333301a0.css.map",
+    "main.595b048e.js.map": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/js/main.595b048e.js.map",
+    "453.b2157c12.chunk.js.map": "/ankita239/DailyGlimpse-Personal-News-Website-Stay-Updated.git/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.333301a0.css",
+    "static/js/main.595b048e.js"
+  ]
+}
