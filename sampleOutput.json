@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Josh Campbell, Devan Cole",
+      "title": "Violent crime is down and the US murder rate is plunging, FBI statistics show",
+      "description": "Violent crime dropped by more than 15% in the United States during the first three months of 2024, according to statistics released Monday by the FBI.",
+      "url": "https://www.cnn.com/2024/06/10/us/us-violent-crime-rates-statistics/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-11T00:40:08Z",
+      "content": "Violent crime dropped by more than 15% in the United States during the first three months of 2024, according to statistics released Monday by the FBI.\r\nThe new numbers show violent crime from January… [+3647 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Examining the accuracy of FBI crime data",
+      "description": "The FBI released its quarterly crime report Monday. The data from Q1 shows overall violent crime fell 15.2% year over year with double-digit percentage decreases across several crime categories, including murder and robbery. Jeff Asher, criminal justice data …",
+      "url": "https://www.cbsnews.com/video/examining-accuracy-fbi-crime-data/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/11/79e5720d-fb66-4d20-b6db-e13365cedc8f/thumbnail/1200x630/ecaa61bb069daaa3f19fa2aef22194d3/cbsn-fusion-examining-accuracy-fbi-crime-data-thumbnail.jpg?v=e6a7e661b3d1c604b3ae2bec0d66302a",
+      "publishedAt": "2024-06-11T00:18:00+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Alexander Mallin",
+      "title": "FBI's latest data show 'historic' drop in crime: Garland",
+      "description": "Reported incidents of violent crime dropped 15%, according to the FBI data.",
+      "url": "https://abcnews.go.com/Politics/fbis-latest-data-show-historic-drop-crime-garland/story?id=110989589",
+      "urlToImage": "https://i.abcnewsfe.com/a/ce23b023-8029-4f46-be91-d1f3c180bd17/fbi-file-gty-ml-240215_1708006884786_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-10T20:50:27Z",
+      "content": "The first three months of 2024 saw a continued drop in levels of violent crime and murder across the country, according to data released by the FBI on Monday -- a trend that Attorney General Merrick … [+3345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Star Wars Outlaws gameplay trailer shows off a life of intergalactic crime",
+      "description": "At its Summer Game Fest 2024 event, Ubisoft unveiled a new trailer for Star Wars Outlaws, which launches in August on the PS5, Xbox, and PC.",
+      "url": "http://www.theverge.com/24172134/star-wars-outlaws-trailer-ubisoft-forward-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xLov-TS8b8mMVT6_t5uwM7dqv4w=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379693/SWO_Screenshots_CapturedInEngine_Akiva_Action_WIDE.png",
+      "publishedAt": "2024-06-10T19:14:35Z",
+      "content": "Star Wars Outlaws gameplay trailer shows off a life of intergalactic crime\r\nStar Wars Outlaws gameplay trailer shows off a life of intergalactic crime\r\n / Theres going to be plenty of Star Wars this … [+1665 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
